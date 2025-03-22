@@ -1,5 +1,3 @@
-Tôi sẽ tóm tắt nội dung về cú pháp thụt lề trong Python một cách có cấu trúc bằng tiếng Việt:
-
 # Thụt lề trong Python (Indentation)
 
 ## Khái niệm
