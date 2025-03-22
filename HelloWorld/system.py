@@ -1,4 +1,5 @@
-# sys là 
+# sys là một module tích hợp (built-in module) quan trọng trong Python, 
+# cung cấp các BIẾN và HÀM để tương tác với trình thông dịch Python và môi trường hệ thống
 import sys
 # Import sys để lấy thông tin về phiên bản Python 
 print(sys.version);
@@ -14,6 +15,10 @@ print("\n");
 
 # # Import sys để lấy thông tin về hệ thống
 print(sys.platform);
+print("\n");
+
+# # Import executable để lấy đường dẫn đến trình thông dịch python
+print(sys.executable);
 print("\n");
 
 # Xuống dòng
